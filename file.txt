@@ -1,3 +1,2 @@
-This new is created and edited
-In the cloned repo the changes are made
-The changes made in main
+
+This new file is created and edited
