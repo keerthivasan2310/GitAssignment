@@ -1,3 +1,7 @@
 this is the file created
+<<<<<<< Updated upstream
 first update is done
 second update is done 
+=======
+changed using cherry pick
+>>>>>>> Stashed changes

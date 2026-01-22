@@ -3,6 +3,11 @@ This new file is created and edited
 =======
 This  file is created and edited
 In the cloned repo the changes are made
+<<<<<<< Updated upstream
 this changes made in feature branch
 
 >>>>>>> c09b223 (commit from feature branch)
+=======
+The changes made in main
+The changes made in cherrypick
+>>>>>>> Stashed changes
