@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-This new file is created and edited
-=======
-This  file is created and edited
-In the cloned repo the changes are made
-this changes made in feature branch
 
->>>>>>> c09b223 (commit from feature branch)
+This new file is created and edited
