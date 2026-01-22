@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This new file is created and edited
 =======
 This  file is created and edited
@@ -11,3 +12,6 @@ this changes made in feature branch
 The changes made in main
 The changes made in cherrypick
 >>>>>>> Stashed changes
+=======
+A new file is created
+>>>>>>> parent of 85615e0 (Update file.txt)
